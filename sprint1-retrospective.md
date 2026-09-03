@@ -10,7 +10,7 @@
 ## What went well
 
 - **We met daily except Sundays**, over Zoom and WhatsApp calls, with WhatsApp used for
-  coordination between meetings. Attendance was full — nobody missed a session.
+  coordination between meetings. Attendance was full nobody missed a session.
 - **Work was split by strength rather than divided equally.** Each member owned an area
   they were best placed to deliver: backlog, prototype, content, repository, presentation.
 - **Ideas were shared openly.** Everyone contributed to the product discussion, not only
@@ -22,14 +22,12 @@
 
 ## What did not go well
 
-- **Deciding the product idea took a long time**, and then longer to reach a version that
+- Deciding the product idea took a long time and then longer to reach a version that
   everyone was genuinely happy with rather than one people merely accepted.
-- **Because the idea was settled late, the rest of the sprint was compressed** into a few
+- Because the idea was settled late, the rest of the sprint was compressed into a few
   days. We delivered, but not at a steady pace.
-- **We learned about some deliverables later than we should have**, which meant work was
+- We learned about some deliverables later than we should have, which meant work was
   discovered rather than planned.
-- **We held our daily scrums but did not document them.** We can show the result at the end
-  of the sprint, but not the progress across it.
 
 ## Decisions that came out of the sprint
 
