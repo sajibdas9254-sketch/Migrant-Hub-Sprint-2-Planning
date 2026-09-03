@@ -7,13 +7,13 @@
 
 ## Our goal
 
-> In Sprint 2 we will build two things separately: the frontend in React, and the backend
+> In Sprint 2 we will build two things separately: the frontend in Reac and the backend
 > in Express. We will not connect them yet. Before we start, we will agree on how they will
 > talk to each other later.
 
 By the end of the sprint we want:
 
-- a React website you can click through, using fake data
+- a React website you can click through, using some data
 - a backend that stores and returns the same data, tested in Postman
 - one document that says which API endpoints we will use, so both sides match when we
   connect them in Sprint 3
@@ -30,7 +30,7 @@ By the end of the sprint we want:
 - The "write a post" form with the word counter (max 512 words)
 - Login and register pages — these only show a message like "Login successful". They do
   not really log anyone in.
-- Fake data written in the same shape as the real API will use
+- Data written in the same shape as the real API will use
 - Styling that matches our Sprint 1 prototype
 
 **Backend (Express)**
@@ -46,7 +46,7 @@ By the end of the sprint we want:
 **Both teams together**
 
 - Write down the API: the endpoints, the methods (GET, POST, PUT, DELETE), what data goes
-  in, what JSON comes back, and the type of every field
+  in, what JSON comes back and the type of every field
 
 ## What we are NOT doing
 
@@ -58,7 +58,7 @@ These are Sprint 3 jobs. We are not doing them now, even if we have time:
 - automated tests
 - the AI feature
 
-**Why we are leaving out AI:** it is optional this sprint, and it is the main thing we want
+**Why we are leaving out AI:** it is optional this sprint and it is the main thing we want
 to build in Sprint 3. We would rather finish a clean frontend and backend than rush all
 three and do all of them badly.
 
@@ -69,9 +69,6 @@ three and do all of them badly.
 | Frontend (React) | Sajib Das, Pratham Arora, Prabhleen Kaur |
 | Backend (Express) | Sehwinder Singh, Yun Wang |
 
-We changed some roles from Sprint 1. Yun built the Figma prototype and is now on backend.
-Prabhleen wrote the content and is now on frontend. Both of them know the prototype well,
-so they bring that knowledge into their new team.
 
 ## When is something "done"?
 
@@ -81,11 +78,5 @@ We agree a task is done when:
 2. It looks and works like our Sprint 1 prototype.
 3. It follows what we learned in class — components on the frontend, MVC on the backend.
 4. Backend endpoints have been tested in Postman and give back the JSON we agreed.
-5. It is pushed on a feature branch, reviewed by one teammate in a pull request, and merged
+5. It is pushed on a feature branch, reviewed by one teammate in a pull request and merged
    into `dev`.
-
-## One rule we must follow
-
-Our Sprint 2 work has to match the Sprint 1 prototype, both in what it does and how it
-looks. The prototype is our reference. If the code and the prototype end up different, we
-decide as a team which one to change, and we write down why.
