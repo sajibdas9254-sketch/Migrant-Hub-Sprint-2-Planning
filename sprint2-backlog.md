@@ -1,7 +1,7 @@
 # Sprint 2 Backlog
 
 **Project:** Migrant Hub
-**Sprint 2:** 3 September – 17 September 2026
+**Sprint 2:** 3 September - 17 September 2026
 **Goal:** Build the React frontend and the Express backend separately and agree the API
 between them. Do not connect them.
 
@@ -57,7 +57,7 @@ of the same pattern.
 | 6 | Post routes | |
 | 7 | Test post endpoints in Postman | |
 | 8 | Must Do items - model, controller, routes | Same pattern as posts |
-| 9 | Communities — model, controller, routes | |
+| 9 | Communities - model, controller, routes | |
 | 10 | Error handling middleware | |
 | 11 | Refactor from array data to MongoDB and Mongoose | After it is taught in class, week 4 |
 | 12 | Test everything again in Postman after the refactor | |
@@ -70,8 +70,8 @@ Easy to forget, and it is worth marks.
 
 | # | Task | Who |
 |---|---|---|
-| 1 | Run the Sprint 2 retrospective using the 4Ls format — Liked, Learned, Lacked, Longed for | Whole team |
+| 1 | Run the Sprint 2 retrospective using the 4Ls format - Liked, Learned, Lacked, Longed for | Whole team |
 | 2 | Run the Sprint Review and write down what we finished | Whole team |
-| 3 | Each person: LLM self-assessment of their frontend code | Everyone |
-| 4 | Each person: LLM self-assessment of their backend code | Everyone |
+| 3 | Each person: LLM self assessment of their frontend code | Everyone |
+| 4 | Each person: LLM self assessment of their backend code | Everyone |
 | 5 | Build the 10-12 minute presentation | Sehwinder |
