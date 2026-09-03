@@ -7,7 +7,7 @@ between them. Do not connect them.
 
 ---
 
-## First — both teams together
+## First - both teams together
 
 | # | Task | Who | When |
 |---|---|---|---|
@@ -19,7 +19,7 @@ Once this is done, the two teams can work without waiting for each other.
 
 ---
 
-## Frontend — Sajib, Pratham, Prabhleen
+## Frontend - Sajib, Pratham, Prabhleen
 
 Build in this order. If we run out of time, the last two are the ones we drop.
 
@@ -42,7 +42,7 @@ Build in this order. If we run out of time, the last two are the ones we drop.
 
 ---
 
-## Backend — Sehwinder, Yun
+## Backend - Sehwinder, Yun
 
 Posts first. It is the main thing our product does, and the other two are simpler versions
 of the same pattern.
@@ -64,7 +64,7 @@ of the same pattern.
 
 ---
 
-## Process work — everyone
+## Process work - everyone
 
 Easy to forget, and it is worth marks.
 
